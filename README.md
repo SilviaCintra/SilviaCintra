@@ -7,7 +7,8 @@
 ### Seja bem vindo (a)!
 
 #### Sobre mim
-
+Sou de São Paulo, estudante de Engenharia de Produção e adoro desafios. 
+A cada dia tenho me interessado mais por automação para tornar processos mais ágeis, além de gostar de usar dados para auxiliar em decisões acertivas. Também gosto de conectar tudo isso ao mercado financeiro.
 
 #### Curiosidades
 
