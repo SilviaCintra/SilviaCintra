@@ -1,16 +1,14 @@
-### Hi there 👋
+![Capa](https://github.com/SilviaCintra/SilviaCintra/blob/main/Capa.png)
+<p align=center> 
+  <a href = "https://www.linkedin.com/in/silvia-de-f%C3%A1tima-cintra-curado-432637178/"><img src="Linkedin1.png" width = 30px> </a> 
+  <a href = "https://sites.google.com/view/portfliosilviacintra/in%C3%ADcio"><img src="portfolio.jpg" width = 25px> </a> 
+</p>
 
-<!--
-**SilviaCintra/SilviaCintra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Seja bem vindo (a)!
 
-Here are some ideas to get you started:
+#### Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Curiosidades
+
+
